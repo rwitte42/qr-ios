@@ -25,7 +25,7 @@ Unicorn QR respects your privacy.
 - No accounts
 - No network services
 
-For full details, see [PRIVACY.md](./PRIVACY.md).
+For full details, see https://github.com/rwitte42/qr-ios/blob/main/privacy.md.
 
 ## Platform
 
